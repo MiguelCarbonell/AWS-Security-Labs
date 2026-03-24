@@ -22,7 +22,7 @@ To develop real-world cloud security skills by performing practical labs instead
 
 ---
 
-Next Steps
+## Next Steps
 
 - S3 security (public vs private buckets)
 - EC2 security groups
