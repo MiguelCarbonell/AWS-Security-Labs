@@ -3,9 +3,14 @@
 This repository documents my hands-on learning journey in cloud security using AWS.
 
 The goal is to build practical skills in identity and access management, access control, and cloud security best practices.
+
 ---
-Labs Included
-- IAM Security Lab (User creation + MFA)
+
+## Labs Included
+
+- [IAM Lab](./iam-lab)
+- [S3 Lab](./s3-lab)
+  
 ---
 Objective
 
@@ -20,23 +25,13 @@ To develop real-world cloud security skills by performing practical labs instead
 - Secure account setup
 - Basic cloud security principles
 
-
 ---
 
 ## Next Steps
 
-- S3 security (public vs private buckets)
 - EC2 security groups
 - CloudTrail logging
 - IAM policies (advanced)
-
-
----
-
-## Labs
-
-- [IAM Lab](./iam-lab)
-- [S3 Lab](./s3-lab)
 
 ---
 
