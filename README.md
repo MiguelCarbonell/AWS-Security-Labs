@@ -20,6 +20,7 @@ To develop real-world cloud security skills by performing practical labs instead
 - Secure account setup
 - Basic cloud security principles
 
+
 ---
 
 ## Next Steps
@@ -28,6 +29,14 @@ To develop real-world cloud security skills by performing practical labs instead
 - EC2 security groups
 - CloudTrail logging
 - IAM policies (advanced)
+
+
+---
+
+## Labs
+
+- [IAM Lab](./iam-lab)
+- [S3 Lab](./s3-lab)
 
 ---
 
